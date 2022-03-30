@@ -30,7 +30,7 @@ export const SettingsModal = ({
     <BaseModal title="Settings" isOpen={isOpen} handleClose={handleClose}>
       <div className="flex flex-col mt-2 divide-y">
         <SettingsToggle
-          settingName="Hard Mode"
+          settingName="IWBMATTKYT Mode"
           flag={isHardMode}
           handleFlag={handleHardMode}
           description={HARD_MODE_DESCRIPTION}
