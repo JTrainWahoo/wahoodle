@@ -8,6 +8,7 @@ export const WORDS = [
   'ultra',
   'tests',
   'focus',
+  'otter',
   'flyer',
   'sport',
   'cycle',
