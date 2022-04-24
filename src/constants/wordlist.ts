@@ -25,7 +25,7 @@ export const WORDS = [
   'alert',
   'forks',
   'chest',
-  'cleats',
+  'cleat',
   'crazy',
   'sorba',
   'pinch',
